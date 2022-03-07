@@ -1,0 +1,8 @@
+.DS_Store
+.idea
+.bsp
+project/
+*.xml 
+build.sbt
+target/
+src/test
